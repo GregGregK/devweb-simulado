@@ -58,15 +58,17 @@ INSERT INTO ROLE (NAME) VALUES('PRODUCT_DELETE');
 
 ```
 
-- Print de como fica salvo os usuários e suas senhas
+- Print de como fica salvo os usuários e suas senhas \
 ![img.png](img.png)
 
-- Print de como fica as tasks
+- Print de como fica as tasks\
 ![img_1.png](img_1.png)
 
 
-- Print de como fica as roles
+- Print de como fica as roles \
 ![img_2.png](img_2.png)
 
-- Print de como fica as users_roles
-[img_3.png](img_3.png)
+- Print de como fica as users_roles \
+[img_3.png](img_3.png) 
+
+
